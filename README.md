@@ -2,7 +2,7 @@
 
 **A. Questions:**
 
-X is a US-based company selling Bikes and Bikes Accessories. As the Business Development Manager of the company, Mr. A requests you, a Data Analyst at X Company, create a **Dashboard **for Business Development Team to monitor business performance.
+X is a US-based company selling Bikes and Bikes Accessories. As the Business Development Manager of the company, Mr. A requests you, a Data Analyst at X Company, create a **Dashboard** for Business Development Team to monitor business performance.
 
 **_(The dataset from [this link](https://drive.google.com/drive/folders/1DZzeRvieZi5Ps40SZ4AoyCcg69U6Gkt1?usp=share_link)_)**
 
