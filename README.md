@@ -6,7 +6,7 @@ X is a US-based company selling Bikes and Bikes Accessories. As the Business Dev
 
 **_(The dataset from [this link](https://drive.google.com/drive/folders/1DZzeRvieZi5Ps40SZ4AoyCcg69U6Gkt1?usp=share_link)_)**
 
-**Q1:** Build your Dashboard on **_Google Data Studio_** (now known as **_Looker Studio_**).
+**Q1:** Build your Dashboard on **_Google Data Studio_**. **_[this link](https://lookerstudio.google.com/reporting/3b512272-9420-47d0-aaf8-74f3765385e4)_**
 
 **Q2:** Use Standard SQL to solve these questions
 
